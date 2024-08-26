@@ -1,0 +1,29 @@
+body{
+    background-color:blueviolet;
+}
+html{
+    scroll-behavior: smooth;
+}
+.container form{
+    width: 100%;
+    text-align: center;
+    padding-top: 3%;
+}
+
+
+form input,form textarea{
+    width: 50%;
+    border: 0;
+    outline: none;
+    background: whitesmoke;
+    padding: 10px;
+    margin: 15px 0;
+    color:black;
+   
+    font-size: 18px;
+    border-radius: 6px;
+    
+}
+button{
+    margin-left: 55%;
+}
